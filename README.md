@@ -23,8 +23,8 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin.
 
 ### Adım 1: Projeyi Klonlayın
 ```bash
-git clone https://github.com/KULLANICI_ADINIZ/albion-market-bot.git
-cd albion-market-bot
+git clone https://github.com/bulutemresakarya/albion-data-telegram-bot.git
+cd albion-data-telegram-bot
 ```
 
 ### Adım 2: Bağımlılıkları Yükleyin
@@ -83,5 +83,6 @@ Bu bot **Albion Online Data Project** (AOD) verilerini kullanır. Verilerin gün
 Pull request'ler kabul edilir. Büyük değişiklikler için lütfen önce neyi değiştirmek istediğinizi tartışmak üzere bir konu (issue) açınız.
 
 ## 📄 Lisans
+
 
 MIT
