@@ -1,0 +1,20 @@
+{
+  "name": "albion-data-telegram-bot",
+  "version": "1.0.0",
+  "description": "Albion Online Market Data Analysis & Notification Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["albion", "online", "telegram", "bot", "market", "flip", "crafting"],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.13.5",
+    "dotenv": "^16.3.1",
+    "node-telegram-bot-api": "^0.67.0"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "city": "Bridgewatch",
+  "isPremium": false,
+  "sermaye": 1500000,
+  "blacklist": [],
+  "mode": "gathering",
+  "minProfit": 1,
+  "minMargin": 5,
+  "minVolume": 50000,
+  "minTier": 1,
+  "maxTier": 8,
+  "maxDataAge": 120,
+  "maxAdet": 999,
+  "includeResources": true,
+  "maxResourceAdet": 999,
+  "minEnchant": 0
+}
